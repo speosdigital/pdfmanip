@@ -2,7 +2,7 @@
 
 **Introduction**
 
-the projuct is now being discontinued
+the project is now being discontinued
 
 **Library functions**
 
